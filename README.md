@@ -15,7 +15,7 @@ This is a RESTful API built with NestJS and TypeORM for managing movies and genr
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/movie-api.git
+   git clone https://github.com/Muzammil-jafferi/Movie-API-NestJs.git
    cd movie-api
 
 2. Install dependencies: npm install
